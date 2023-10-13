@@ -107,7 +107,7 @@ section
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("./imgi.png") no-repeat;
+    background: url("../imgi.png") no-repeat;
     background-size : cover;
     background-position: center;
 }
